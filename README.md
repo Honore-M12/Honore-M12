@@ -14,7 +14,7 @@ Projet de fin d'année, en cours de développement.
 - Observabilité des coûts via OpenCost, Prometheus, Grafana
 - CI complète (GitHub Actions), 49 tests automatisés (pytest)
 
-[Code](https://github.com/Honore-M12/finops-platform)
+[Repo](https://github.com/Honore-M12/finops-platform)
 
 **Ferme Connectée Intelligente**
 Projet académique IoT, en équipe de 4.

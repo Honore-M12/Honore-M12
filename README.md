@@ -24,7 +24,7 @@ Projet académique IoT, en équipe de 4.
 - Diagnostic IA (API Groq, LLaMA 3.3 70B), historisation InfluxDB
 - Dashboards ThingsBoard/Grafana, déploiement multi-conteneurs Docker Compose
 
-[Code](https://github.com/Honore-M12/Ferme_connectee)
+[Repo](https://github.com/Honore-M12/Ferme_connectee)
 
 **Application Multi-conteneurs avec Monitoring**
 - Architecture Nginx / Flask / PostgreSQL orchestrée avec Docker Compose
@@ -32,7 +32,7 @@ Projet académique IoT, en équipe de 4.
 - Dashboards Grafana temps réel, Node Exporter
 - Pipeline CI/CD GitHub Actions à deux jobs : tests (pytest, flake8) puis build et publication sur Docker Hub
 
-[Code](https://github.com/Honore-M12/containerized-guestbook)
+[Repo](https://github.com/Honore-M12/containerized-guestbook)
 
 **Infrastructure Réseaux Sécurisée Multi-site**
 Projet académique.
